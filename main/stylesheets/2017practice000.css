@@ -1,3 +1,8 @@
+.article, .header{
+  border:1px dotted rgba(255,238,173,.75);display:block;margin:auto;width:540px;}
 .header{
-  background-color: rgba(255,238,173,.65);border:1px dotted rgba(255,238,173,.75);display:block;height:550px;margin:auto;width:540px;top:0;}
-.headline{color:rgba(255,111,105,.85);display:inline;font-size:48px;font-kerning:unset;font-weight:bold;}
+  height:50px;top:0;}
+.headline{
+  color:rgba(255,111,105,.85);display:inline;font-size:48px;font-kerning:unset;font-weight:bold;}
+.article{
+  background-color: rgba(255,238,173,.65);bottom:0;height:550px;}
