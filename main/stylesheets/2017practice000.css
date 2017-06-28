@@ -1,5 +1,5 @@
 .article, .header{
-  border:1px dotted rgba(255,238,173,.75);display:block;margin:auto;width:540px;}
+  border:1px dotted rgba(255,238,173,.75);display:block;margin:0 auto;width:540px;}
 .header{
   height:50px;top:0;}
 .headline{
