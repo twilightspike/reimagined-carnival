@@ -4,3 +4,7 @@ Carnival.Game.prototype = {
   managePause: function(){},
   update: function(){}
 };
+Carnival.item = {
+  click: function(){},
+  remove: function(){}
+}
