@@ -4,6 +4,6 @@ Carnival.Main.prototype = {
     this.add.sprite(0, 0, 'foto_no_exif');
   },
   startGame: function(){
-    this.state.start(Game);
+    this.state.start('Game');
   }
 };
